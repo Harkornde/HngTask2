@@ -1,0 +1,85 @@
+#alldiv {
+  width: calc(100% - 12.25rem);
+}
+
+.gridlayout {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.featurmov {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3.38rem;
+}
+
+.featurmovH {
+  width: 90%;
+  color: #000;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.posterImg {
+  margin-top: 2.75rem;
+  width: 15.625rem;
+  height: 23.125rem;
+  flex-shrink: 0;
+}
+
+.tittle {
+  color: #111827;
+  width: 15.625rem;
+  font-family: DM Sans;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 3.5rem;
+}
+
+.ratesdiv {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.ratings {
+  color: #111827;
+  margin-left: 0.625rem;
+  font-family: DM Sans;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0.75rem;
+}
+
+.appImg {
+  margin-left: 2.12rem;
+  width: 1rem;
+  height: 1.0625rem;
+}
+
+.ratings_perc {
+  margin-left: 0.625rem;
+  font-family: DM Sans;
+  color: #111827;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0.75rem;
+}
+
+.genres {
+  margin-top: 0.75rem;
+  color: #9ca3af;
+  font-family: DM Sans;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
