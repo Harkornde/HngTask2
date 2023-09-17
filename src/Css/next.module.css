@@ -1,0 +1,135 @@
+.nextFlex {
+  width: 94.5rem;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.Flexb {
+  width: 14.125rem;
+  flex-shrink: 0;
+  border: 1px solid #333;
+  border-radius: 0rem 2.8125rem 2.8125rem 0rem;
+}
+
+.movie {
+  margin-top: 3rem;
+  margin-left: 1.5rem;
+  color: #333;
+  font-family: DM Sans;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.5rem;
+}
+
+.para {
+  margin-top: 6rem;
+  text-align: center;
+  font-family: DM Sans;
+  color: #666;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.paramovs {
+  text-align: center;
+  margin-top: 2.83;
+  color: #be123c;
+  border-right: 2px solid #be123c;
+  background: rgba(190, 18, 60, 0.1);
+  font-family: DM Sans;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.paraseries {
+  text-align: center;
+  margin-top: 2.83;
+  color: #666;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-family: DM Sans;
+}
+
+.upcoming {
+  margin-top: 2.83;
+  text-align: center;
+  color: #666;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-family: DM Sans;
+}
+
+.play_mov {
+  display: block;
+  padding: 2.63rem 1.06rem 1rem 1rem 1rem;
+  margin: auto;
+  margin-top: 3rem;
+  width: 10.625rem;
+  border-radius: 1.25rem;
+  border: 1px solid rgba(190, 18, 60, 0.7);
+  background: rgba(248, 231, 235, 0.4);
+  flex-shrink: 0;
+  border-radius: 20px;
+}
+
+.mova {
+  margin: auto;
+  color: rgba(51, 51, 51, 0.8);
+  margin-top: 2.63rem;
+  width: 8.5625rem;
+  font-family: Poppins;
+  font-size: 0.9375rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.paying {
+  margin: auto;
+  width: 8.6875rem;
+  color: #666;
+  font-family: Poppins;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.playbtn {
+  display: block;
+  margin: auto;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  width: 7rem;
+  color: #be123c;
+  font-family: Poppins;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border: none;
+  border-radius: 1.875rem;
+  background: rgba(190, 18, 60, 0.2);
+}
+
+.logout {
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+  width: 4.625rem;
+  color: #666;
+  font-family: Poppins;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+}
